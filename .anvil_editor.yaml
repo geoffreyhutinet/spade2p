@@ -4,6 +4,7 @@ unique_ids:
     theme.css: PTU3FQ3XFVHZTKESH6Q73D5M7QHKZ2X7
   forms:
     Form1: GS3W23EKECD52HI7MZJLYWDRZ7WEKL27
-  modules: {}
+  modules:
+    Spade2p: '1741413594700746424450111.3755'
   scripts: {}
   server_modules: {}
