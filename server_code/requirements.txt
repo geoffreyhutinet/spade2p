@@ -1,1 +1,1 @@
-pydealer
+pydealer==1.4.0
